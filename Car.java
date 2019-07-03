@@ -10,7 +10,7 @@ public class Car {
 	private int id;
 	private static int idCounter = 0;
 	
-	public Car()
+	public Car/**/()
 	{
 		//TODO add all
 //example
