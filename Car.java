@@ -13,6 +13,7 @@ public class Car {
 	public Car()
 	{
 		//TODO add all
+//example
 	}
 	
 	public Car(String e, double s, int y, String c)
