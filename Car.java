@@ -10,7 +10,11 @@ public class Car {
 	private int id;
 	private static int idCounter = 0;
 	
+<<<<<<< HEAD
 	//sdsdds
+=======
+	//fff
+>>>>>>> irina
 	public Car/**/()
 	{
 		//TODO add all
