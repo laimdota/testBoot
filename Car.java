@@ -9,8 +9,8 @@ public class Car {
 	private String color; //"" by default
 	private int id;
 	private static int idCounter = 0;
-	/*kkk*/
-	public Car()
+	
+	public Car/**/()
 	{
 		//TODO add all
 //example
