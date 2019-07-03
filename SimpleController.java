@@ -14,6 +14,8 @@ import demo.model.Car;
 
 //asas
 //blb
+
+///blalaal
 @Controller
 public class SimpleController {
 	/**list for all cars in system*/
