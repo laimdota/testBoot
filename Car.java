@@ -12,7 +12,7 @@ public class Car {
 	
 	public Car()
 	{
-		
+		//TODO add all
 	}
 	
 	public Car(String e, double s, int y, String c)
