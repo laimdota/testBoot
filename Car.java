@@ -10,6 +10,7 @@ public class Car {
 	private int id;
 	private static int idCounter = 0;
 	
+	//sdsdds
 	public Car/**/()
 	{
 		//TODO add all
